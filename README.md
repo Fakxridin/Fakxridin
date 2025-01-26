@@ -1,4 +1,3 @@
-# 👋 Hello, I'm [Your Name]!
 
 ## 🛠️ Main Skills
 - **Frontend**: HTML, CSS,  JavaScript, Vue.js, EJS
