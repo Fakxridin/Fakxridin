@@ -6,9 +6,8 @@
 - **Other Tools**: Git, Github, VS, AWS, CI/CD
 
 ## 🌟 Interest Areas
--AI 
--TELEGRAM and WEB BOTS
-- DevOps
+- AI 
+- TELEGRAM and WEB BOTS
 - Open Source Contributions
 
 
