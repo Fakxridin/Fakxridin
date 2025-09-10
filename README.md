@@ -1,13 +1,8 @@
 
-## 🛠️ Main Skills
-- **Frontend**:Vue 
-- **Backend**: Node
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Other Tools**: Git, Github, VS, AWS, CI/CD
 
 ## 🌟 Interest Areas
 - AI 
-- TELEGRAM and WEB BOTS
+- BOT and WEB APPLICATIONS
 - Open Source Contributions
 
 ## 📊 GitHub Stats
